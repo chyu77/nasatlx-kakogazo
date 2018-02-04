@@ -13,10 +13,9 @@
 				<h1>Task Load Index (TLX)</h1>
 			</header>
 			<section class="start">
-				<h2>Thanks for attending for experiment of Kakogazo System!</h2>
-				<h2>本日はお忙しいところ，実験に協力していただきありがとうございます．</h2>
+				<h2>Thanks for attending for experiment of Kakogazo System</h2>
 				<div id="container"></div>
-				<button>START 開始</button>
+				<button>START</button>
 			</section>
 
 			<section class="step_0">
@@ -49,17 +48,17 @@
 						</form>
 					</section>
 					<section class="second">
-						<h3>Experiment　実験</h3>
-						<h4>Choose experiment　実験を選ぶ</h4>
+						<h3>Experiment</h3>
+						<h4>Choose experiment</h4>
 						<form class="list">
 							<div>
 								<div>
 									<input type="radio" name="tasks" id="flight_simulation" checked>
-									<label for="flight_simulation">Kakogazo System　提案手法</label>
+									<label for="flight_simulation">Kakogazo System</label>
 								</div>
 								<div>
 									<input type="radio" name="tasks" id="drinking_beer">
-									<label for="drinking_beer">Traditional System　比較手法</label>
+									<label for="drinking_beer">Traditional System</label>
 								</div>
 							</div>
 						</form>
@@ -119,7 +118,7 @@
 			</section>
 			<section class="step_3">
 				<h2>Step 3: pair-wise comparison of factors</h2>
-				<p class="alt">Select the member of each pair that provided the most significant source of workload:　ワークロードの最も重要なソースを提供した各ペアのメンバーを選択してください。</p>
+				<p class="alt">Select the member of each pair that provided the most significant source of workload:</p>
 			</section>
 			<section class="step_4">
 				<h2>Step 4: resulting data</h2>

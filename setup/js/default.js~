@@ -59,12 +59,12 @@ $(document).ready(function() {
 		pairs_length,
 		final_result = [],
 		demands = [
-			["md", "Mental demand 知的・知覚的要求"],
-			["pd", "Physical demand 身体的要求"],
-			["td", "Temporal demand タイムプレッシャー"],
-			["op", "Performance 作業成績の悪さ"],
-			["ef", "Effort 努力"],
-			["fr", "Frustration フラストレーション"]
+			["md", "Mental demand"],
+			["pd", "Physical demand"],
+			["td", "Temporal demand"],
+			["op", "Performance"],
+			["ef", "Effort"],
+			["fr", "Frustration"]
 		],
 		tableoutput = "",
 		no_score = "–";
